@@ -1,0 +1,60 @@
+.jumbotron {
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+
+p {
+
+	margin-left: 10px;
+	margin-top: 5px;
+	margin-bottom: 0;
+	font-weight: bold;
+}
+
+.inp {
+
+	margin-left: 10px;
+	width: 98%;
+	margin-top: 5px;
+	border-style: none;
+	border: 1px solid lightgray;
+		border-radius: 3px;
+}
+
+#subs{
+
+	margin: 10px;
+	background-color: dodgerblue;
+	color: white;
+	border: none !important;
+	padding: 8px;
+	border-radius: 7px;
+}
+
+#trainhere, #desthere, #freqhere, #nexthere, #minhere {
+
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+.panel-heading {
+
+	color: white !important;
+	background-color: dodgerblue !important;
+}
+
+.panel {
+
+	border: 1px solid blue;
+}
+
+#name, #role, #date, #rate, {
+
+}
+
+.tds {
+
+	margin-left: 10px;
+}
